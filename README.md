@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @spacemanstan
-- 👀 I’m interested in ... not failing school
+- 👀 I’m interested in ... procrastination
 - 🌱 I’m currently learning ... what a computer is
 - 💞️ I’m looking to collaborate on ... drug usage
-- 📫 How to reach me ... smoke signal 
+- 📫 How to reach me ... with arms 
+
+
+
+
+
+does anyone read these lol
 
 <!---
 spacemanstan/spacemanstan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
